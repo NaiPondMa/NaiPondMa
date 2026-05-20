@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NaiPondMa.NaiPondMa&"  />
 </div>
 
 ###
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm sophomore computer science student who has a passion in field of data science and software engineering in the future.<br><br>- 🔭 I’m working as student in Chulalongkorn University<br>- 📚 I'm currently learning Machine Learning and Advance Logic to enchance my skill<br>- ⚡ In my free time I am trying to build some side project and work as Software Tester for coffee paid</p>
+<p align="left">I'm sophomore computer science student who has a passion in field of data science and software engineering in the future. I'm trying to look forward to catching opportunity to improve myself and being the real one for this job field proving that a little man from knowing nothing to reach the goal.<br><br>- 🔭 I’m working as student in Chulalongkorn University<br>- 📚 I'm currently learning Machine Learning and Advance Logic to enchance my skill<br>- ⚡ In my free time I am trying to build some side project and work as Software Tester for coffee paid</p>
 
 ###
 
@@ -51,6 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
@@ -59,11 +61,12 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/stats-output/stats.svg" height="250" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/activity-graph-output/activity-graph.svg" height="150" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/NaiPondMa/NaiPondMa/stats-output/stats.svg" height="250" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/NaiPondMa/NaiPondMa/languages-output/languages.svg" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=NaiPondMa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
