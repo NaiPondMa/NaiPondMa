@@ -60,7 +60,10 @@
 ###
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/stats-output/stats.svg" height="250" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/activity-graph-output/activity-graph.svg" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
