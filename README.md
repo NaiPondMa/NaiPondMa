@@ -64,9 +64,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NaiPondMa/NaiPondMa/stats-output/stats.svg" height="250" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/NaiPondMa/NaiPondMa/languages-output/languages.svg" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=NaiPondMa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/NaiPondMa/NaiPondMa/stats-output/stats.svg" height="250" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/NaiPondMa/NaiPondMa/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=NaiPondMa&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="580" alt="streak graph"  />
 </div>
 
 ###
