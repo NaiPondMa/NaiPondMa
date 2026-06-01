@@ -79,7 +79,6 @@ class NaiPondMa:
 
 <img src="https://raw.githubusercontent.com/NaiPondMa/NaiPondMa/stats-output/stats.svg" height="200" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/NaiPondMa/NaiPondMa/languages-output/languages.svg" height="150" alt="Top Languages"/>
 
 <br/><br/>
 
