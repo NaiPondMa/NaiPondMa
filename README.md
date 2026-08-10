@@ -1,38 +1,38 @@
 # Hey, I'm Para 👋
 
 ```text
-╭─   ~/profile/README.md ─────────────────────────────────────╮
-│                                                              │
-│   ██╗  ██╗ ███████╗██╗     ██╗      ██████╗ ██╗             │
-│   ██║  ██║ ██╔════╝██║     ██║     ██╔═══██╗██║             │
-│   ███████║ █████╗  ██║     ██║     ██║   ██║██║             │
-│   ██╔══██║ ██╔══╝  ██║     ██║     ██║   ██║╚═╝             │
-│   ██║  ██║ ███████╗███████╗███████╗╚██████╔╝██╗             │
-│   ╚═╝  ╚═╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝             │
-│                                                              │
-│  01  I'm Para — Bachelor of Computer Science at              │
-│  02  Chulalongkorn University, Thailand.                     │
-│  03                                                          │
-│  04  interests = {                                           │
-│  05      "Data Science",                                     │
-│  06      "Machine Learning",                                 │
-│  07      "Software Engineering",                             │
-│  08      "Data Analytics"                                    │
-│  09  }                                                       │
-│  10                                                          │
-│  11  workflow = {                                            │
-│  12      "Plan-driven",                                      │
-│  13      "Agile"                                             │
-│  14  }                                                       │
-│  15                                                          │
-│  16  currently = "learning · building · breaking · improving"│
-│  17                                                          │
-│  18  organizations = true                                    │
-│  19  focus = "building infrastructure for future contributors"│
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│ NORMAL   README.md     UTF-8       github.com/NaiPondMa   │
-╰──────────────────────────────────────────────────────────────╯
+╭─   ~/profile/README.md ───────────────────────────────╮
+│                                                       │
+│   ██╗  ██╗ ███████╗██╗     ██╗      ██████╗ ██╗      │
+│   ██║  ██║ ██╔════╝██║     ██║     ██╔═══██╗██║      │
+│   ███████║ █████╗  ██║     ██║     ██║   ██║██║      │
+│   ██╔══██║ ██╔══╝  ██║     ██║     ██║   ██║╚═╝      │
+│   ██║  ██║ ███████╗███████╗███████╗╚██████╔╝██╗      │
+│   ╚═╝  ╚═╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝      │
+│                                                       │
+│  01  I'm Para — Bachelor of Computer Science at      │
+│  02  Chulalongkorn University, Thailand.             │
+│  03                                                   │
+│  04  interests = {                                    │
+│  05      "Data Science",                              │
+│  06      "Machine Learning",                          │
+│  07      "Software Engineering",                      │
+│  08      "Data Analytics"                             │
+│  09  }                                                │
+│  10                                                   │
+│  11  workflow = {                                     │
+│  12      "Plan-driven",                               │
+│  13      "Agile"                                      │
+│  14  }                                                │
+│  15                                                   │
+│  16  currently = "learning · building · improving"   │
+│  17                                                   │
+│  18  organizations = true                             │
+│  19  focus = "building infrastructure"               │
+│                                                       │
+├───────────────────────────────────────────────────────┤
+│ NORMAL   README.md     UTF-8       github.com/NaiPondMa │
+╰───────────────────────────────────────────────────────╯
 ```
 
 ---
@@ -43,23 +43,11 @@ I spend part of my time building and contributing to student organizations — n
 
 ### 📊 S&D — Statistics & Data
 
-<p align="center">
-  <img src="assets/s%26d-banner.png" alt="S&D banner" width="100%" />
-</p>
+![S&D banner](assets/s%26d-banner.png)
 
 > Building the technical backbone for the Statistics & Data Department.
 
-I'm currently helping shape the **S&D GitHub Organization** by improving its repository structure, contributor experience, documentation, and internal developer workflows.
-
-```txt
-S&D/
-├── organization setup
-├── repository structure
-├── contributor experience
-├── documentation
-├── GitHub workflows
-└── developer infrastructure
-```
+I'm currently helping shape the **S&D GitHub Organization** by data-cleansing, data analyzation, data visualization and creating reporting.
 
 [→ Explore S&D](https://github.com/STAT-DATA-SGCU)
 
@@ -67,11 +55,9 @@ S&D/
 
 ### 🌿 SMO Vidya
 
-<p align="center">
-  <img src="assets/smovidya-banner.jpg" alt="SMO Vidya banner" width="100%" />
-</p>
+![SMO Vidya banner](assets/smovidya-banner.jpg)
 
-Another organization I'm involved with, where people, technology, and projects come together in a more collaborative and community-driven space.
+I'm currently Research and Development Role in SMOVIDYA faculty of science. I take care of evaluating and analyze the result of every activities those are managed by the organization.
 
 [→ Explore SMO Vidya](https://github.com/smovidya)
 
@@ -119,18 +105,23 @@ Another organization I'm involved with, where people, technology, and projects c
 > That's the interesting part.
 ```
 
-## `:Git status`
+## `:git status`
+
+<p align="left">
   <img
-  src="https://github-readme-stats.vercel.app/api?username=NaiPondMa&show_icons=true&hide_border=true&theme=transparent"
-/>
+    src="https://github-readme-stats.vercel.app/api?username=NaiPondMa&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub stats for NaiPondMa"
+    width="420"
+    height="150"
+  />
+</p>
+
 ```text
  main
-
 Projects        → building
 Organizations   → S&D · SMO Vidya
 Data / ML       → learning
 Backend         → exploring
 Coffee          → required
-
 Status          → WIP
----
+```
