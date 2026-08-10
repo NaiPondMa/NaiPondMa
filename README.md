@@ -1,4 +1,4 @@
-# Hey, I'm Pond 👋
+# Hey, I'm Para 👋
 
 ```text
 ╭─   ~/profile/README.md ─────────────────────────────────────╮
@@ -119,38 +119,18 @@ Another organization I'm involved with, where people, technology, and projects c
 > That's the interesting part.
 ```
 
----
-
-## `github.stats`
-
-<p align="left">
+## `:Git status`
   <img
-    src="https://github-readme-stats.vercel.app/api?username=NaiPondMa&show_icons=true&hide_border=true&theme=transparent"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaiPondMa&layout=compact&hide_border=true&theme=transparent"
-    height="150"
-  />
-</p>
+  src="https://github-readme-stats.vercel.app/api?username=NaiPondMa&show_icons=true&hide_border=true&theme=transparent"
+/>
+```text
+ main
 
----
+Projects        → building
+Organizations   → S&D · SMO Vidya
+Data / ML       → learning
+Backend         → exploring
+Coffee          → required
 
-## `find.me`
-
-```txt
-🌐 GitHub
-└── https://github.com/NaiPondMa
-
-🏢 Organizations
-├── S&D       → https://github.com/STAT-DATA-SGCU
-└── SMO Vidya → https://github.com/smovidya
-
-💼 LinkedIn
-└── YOUR_LINKEDIN_URL
-
-📫 Email
-└── YOUR_EMAIL
-```
-
+Status          → WIP
 ---
