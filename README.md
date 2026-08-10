@@ -1,95 +1,197 @@
-<div align="center">
+# Hey, I'm Pond 👋
 
-<!-- Animated Typing Header -->
+```txt
+██╗  ██╗ ███████╗██╗     ██╗      ██████╗ ██╗
+██║  ██║ ██╔════╝██║     ██║     ██╔═══██╗██║
+███████║ █████╗  ██║     ██║     ██║   ██║██║
+██╔══██║ ██╔══╝  ██║     ██║     ██║   ██║╚═╝
+██║  ██║ ███████╗███████╗███████╗╚██████╔╝██╗
+╚═╝  ╚═╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+NaiPondMa+%F0%9F%91%8B;CS+Student+%40+Chulalongkorn+University;Data+Science+%26+ML+Enthusiast;From+zero+to+something+real." alt="Typing SVG" /></a>
+I'm Pond — a Computer Science student at
+Chulalongkorn University, Thailand.
 
-<!-- Animated Banner -->
+Interested in Data Science, Machine Learning,
+Software Engineering, and building systems
+that people can actually use.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGdqaGxrZ2Q4MHZudmMwNjBjdjFuenRzMHJjbWpudG42Ym1uZGRxZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="480" alt="banner gif"/>
+Currently learning, building, breaking things,
+and understanding how to build them better.
 
-<br/>
-
-<!-- Social Badges -->
-
-<a href="https://www.instagram.com/gxd.pxr/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-
-<br/><br/>
-
-<!-- Visitor Badge -->
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=NaiPondMa.NaiPondMa" />
-
-</div>
-
------
-
-## 🌑 About Me
-
-```python
-class NaiPondMa:
-    def __init__(self):
-        self.name       = "NaiPondMa"
-        self.university = "Chulalongkorn University 🎓"
-        self.year       = "Sophomore — Computer Science"
-        self.focus      = ["Data Science", "Machine Learning", "Software Engineering"]
-        self.learning   = ["Machine Learning", "Advanced Logic", "Statistical Modeling"]
-        self.side_hustle = "Software Tester (coffee-powered ☕)"
-        self.goal       = "From knowing nothing → becoming the real one"
-
-    def current_mission(self):
-        return "Seeking opportunities to grow and prove that small beginnings lead to great outcomes."
+Beyond personal projects, I'm also working with
+student organizations and helping build technical
+infrastructure for future contributors.
 ```
 
------
+---
 
-## 🛠️ Tech Stack
+## `current.status`
 
-<div align="center">
+```txt
+currently
+├── building     S&D GitHub Organization
+├── contributing student organization infrastructure
+├── learning     data · machine learning · software engineering
+├── exploring    backend · statistics · system design
+└── improving    one commit at a time
+```
 
-### 💻 Languages
+---
 
-![Python](https://img.shields.io/badge/Python-14181C?style=for-the-badge&logo=python&logoColor=00FFB3)
-![Java](https://img.shields.io/badge/Java-14181C?style=for-the-badge&logo=java&logoColor=00FFB3)
-![TypeScript](https://img.shields.io/badge/TypeScript-14181C?style=for-the-badge&logo=typescript&logoColor=00FFB3)
-![Rust](https://img.shields.io/badge/Rust-14181C?style=for-the-badge&logo=rust&logoColor=00FFB3)
-![HTML5](https://img.shields.io/badge/HTML5-14181C?style=for-the-badge&logo=html5&logoColor=00FFB3)
-![CSS3](https://img.shields.io/badge/CSS3-14181C?style=for-the-badge&logo=css3&logoColor=00FFB3)
+## `organizations/`
 
-### 🧠 Data & ML
+I spend part of my time building and contributing to student organizations — not only through projects, but also by improving the systems, repositories, and workflows behind them.
 
-![Jupyter](https://img.shields.io/badge/Jupyter-14181C?style=for-the-badge&logo=jupyter&logoColor=00FFB3)
-![MySQL](https://img.shields.io/badge/MySQL-14181C?style=for-the-badge&logo=mysql&logoColor=00FFB3)
+### 📊 S&D — Statistics & Data
 
-### 🔧 Tools
+> Building the technical backbone for the Statistics & Data Department.
 
-![Git](https://img.shields.io/badge/Git-14181C?style=for-the-badge&logo=git&logoColor=00FFB3)
+I'm currently helping build the **S&D GitHub Organization**, including repository structure, organization setup, documentation, contributor experience, and internal developer infrastructure.
 
-</div>
+```txt
+S&D/
+├── organization setup
+├── repository structure
+├── contributor experience
+├── documentation
+├── GitHub workflows
+└── developer infrastructure
+```
 
------
+[→ Explore S&D](https://github.com/STAT-DATA-SGCU)
 
-## 🔥 My Stats
+---
 
-<div align="center">
+### 🌿 SMO Vidya
 
-<img src="https://raw.githubusercontent.com/NaiPondMa/NaiPondMa/stats-output/stats.svg" height="200" alt="GitHub Stats"/>
-&nbsp;
+Another organization I'm involved with, where people, technology, and projects come together.
 
-<br/><br/>
+[→ Explore SMO Vidya](https://github.com/smovidya)
 
-<img src="https://streak-stats.demolab.com?user=NaiPondMa&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="220" alt="Streak Stats"/>
+---
 
-</div>
+## `~/stack`
 
------
+### Languages
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square\&logo=javascript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square\&logo=postgresql\&logoColor=white)
 
-*“A little man from knowing nothing — reaching the goal one commit at a time.”* 🌿
+### Data / ML
 
-</div>
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square\&logo=numpy\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=flat-square\&logo=jupyter\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square\&logo=docker\&logoColor=white)
+
+---
+
+## `progress.log`
+
+```diff
++ Started with curiosity
++ Learned how to code
++ Survived debugging
++ Built real projects
++ Started working with data
++ Started contributing to organizations
++ Started building infrastructure for contributors
++ Exploring machine learning
++ Learning how software works beyond the code
+
+> Still a long way to go.
+> That's the interesting part.
+```
+
+---
+
+## `currently.building`
+
+Most of the things I enjoy live somewhere between **software, data, and people**.
+
+You'll probably find:
+
+* data analysis & visualization
+* algorithms & experiments
+* backend tools
+* machine learning projects
+* organization infrastructure
+* developer tooling
+* student organization projects
+* university projects that became unnecessarily serious
+* random ideas that somehow became repositories
+
+---
+
+## `github.stats`
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NaiPondMa&show_icons=true&hide_border=true&theme=transparent"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaiPondMa&layout=compact&hide_border=true&theme=transparent"
+    height="150"
+  />
+</p>
+
+---
+
+## `find.me`
+
+```txt
+🌐 GitHub
+└── https://github.com/NaiPondMa
+
+🏢 Organizations
+├── S&D       → YOUR_S_AND_D_ORGANIZATION_URL
+└── SMO Vidya → YOUR_SMOVIDYA_ORGANIZATION_URL
+
+💼 LinkedIn
+└── YOUR_LINKEDIN_URL
+
+📫 Email
+└── YOUR_EMAIL
+```
+
+---
+
+## `mission`
+
+I'm not trying to collect technologies just to fill a README.
+
+I want to understand how things work, build useful systems, contribute to communities, and become someone capable of turning messy problems into things people can actually use.
+
+```txt
+know nothing
+     ↓
+learn something
+     ↓
+build something
+     ↓
+work with people
+     ↓
+break something
+     ↓
+understand more
+     ↓
+improve
+     ↓
+repeat
+```
+
+---
+
+> **Small beginnings. Serious intentions.**
+>
+> `one commit closer than yesterday.`
